@@ -1,5 +1,5 @@
 .controller.custom{
-    background: url(assets/base.png);
+    background: url("https://github.com/mikasonwar/gamepad-viewer/raw/main/assets/base-small.png");
     height: 630px;
     width: 750px;
 }
